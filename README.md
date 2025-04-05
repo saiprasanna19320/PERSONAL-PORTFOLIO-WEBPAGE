@@ -34,6 +34,11 @@ Technologies Used:
 
 HTML5, CSS3, JavaScript
 
+
+output :
+
+https://github.com/user-attachments/assets/6b62e752-9152-40fb-9309-5f887ca3e7e3
+
 Bootstrap 5 for responsive and fast UI development
 
 FontAwesome & Google Fonts for icons and typography
